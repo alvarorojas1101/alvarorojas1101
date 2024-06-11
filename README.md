@@ -2,6 +2,8 @@
 
 Soy Alvaro Rojas, un apasionado desarrollador Full Stack con una sólida formación en tecnología.
 
+![Profile Animation](https://private-user-images.githubusercontent.com/95725500/326101488-54966330-c777-4ac3-878f-2994b23f05da.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgwNzMyODksIm5iZiI6MTcxODA3Mjk4OSwicGF0aCI6Ii85NTcyNTUwMC8zMjYxMDE0ODgtNTQ5NjYzMzAtYzc3Ny00YWMzLTg3OGYtMjk5NGIyM2YwNWRhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjExVDAyMjk0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwMzk2ODk1YjZiMmZmNTY5ZGIzNWNlZDcyZDc4NzBkMTM2YjJjYjM2MWEwMWQ1NWFiMGFmNjU1ZDc2NDk4ZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.LUnmkv-2LL9rQjynOqH7zoRz8OJJoXPGnOy2lZFKsfQ)
+
 ## Acerca de mí
 
 Desde que realicé un técnico en mantenimiento de computadoras en la escuela, mi interés por el desarrollo y la tecnología ha crecido exponencialmente. He completado cursos de desarrollo web Full Stack en el programa Codo a Codo 4.0 del Gobierno de la Ciudad de Buenos Aires, así como en Coderhouse, entre otros. Actualmente, estoy inmerso en el bootcamp de Soy Henry y continuamente ampliando mis conocimientos a través de cursos en Platzi.
