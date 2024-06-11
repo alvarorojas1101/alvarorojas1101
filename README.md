@@ -54,3 +54,7 @@ Estoy emocionado por lo que el futuro tiene reservado y estoy comprometido a seg
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/95725500/326101488-54966330-c777-4ac3-878f-2994b23f05da.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgwNzMyODksIm5iZiI6MTcxODA3Mjk4OSwicGF0aCI6Ii85NTcyNTUwMC8zMjYxMDE0ODgtNTQ5NjYzMzAtYzc3Ny00YWMzLTg3OGYtMjk5NGIyM2YwNWRhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjExVDAyMjk0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwMzk2ODk1YjZiMmZmNTY5ZGIzNWNlZDcyZDc4NzBkMTM2YjJjYjM2MWEwMWQ1NWFiMGFmNjU1ZDc2NDk4ZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.LUnmkv-2LL9rQjynOqH7zoRz8OJJoXPGnOy2lZFKsfQ" alt="Profile Animation" width="300"/>
+</div>
