@@ -55,30 +55,25 @@ Estoy emocionado por lo que el futuro tiene reservado y estoy comprometido a seg
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## GitHub Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alvarorojas1101&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
 
 ## Recent Blog Posts  
   
 
 <br/>  
 
-  
-
-<br/>  
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=alvarorojas1101&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/alvarorojas1101" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
@@ -87,4 +82,4 @@ Estoy emocionado por lo que el futuro tiene reservado y estoy comprometido a seg
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
