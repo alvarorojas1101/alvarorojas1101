@@ -55,6 +55,20 @@ Estoy emocionado por lo que el futuro tiene reservado y estoy comprometido a seg
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+
+## Proyectos Destacados
+
+### [Electro Emporium (may. 2024 - jun. 2024)](https://github.com/alvarorojas1101/PF.git)
+Marketplace de productos electrónicos con autenticación Auth0, gestión de productos y pagos integrados con Mercado Pago. Tecnologías: JavaScript, Redux Toolkit, TypeScript, Cloudinary, Auth0, Bootstrap, Axios, Vercel.
+
+### [Proyecto Individual Countries (abr. 2024)](https://github.com/alvarorojas1101/PiCountries.git)
+Aplicación web para explorar y gestionar una base de datos de países con funcionalidades de búsqueda, filtrado y creación de actividades turísticas. Tecnologías: JavaScript, React, Node.js, Redux, PostgreSQL, Express.js, Sequelize.
+
+### [Proyecto Integrador Rick and Morty (dic. 2023 - ene. 2024)](https://github.com/alvarorojas1101/PI-RYM.git)
+Aplicación web de personajes de Rick and Morty con funcionalidades de autenticación, búsqueda, filtrado y gestión de favoritos. Tecnologías: JavaScript, React, Node.js, Redux, HTML, CSS, PostgreSQL, Express.js, Sequelize.
+
+---
+
 ## GitHub Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alvarorojas1101&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
