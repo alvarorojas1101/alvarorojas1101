@@ -24,6 +24,7 @@ Me motiva la posibilidad de crear soluciones innovadoras que mejoren la vida de 
 - Auth0
 - Database management
 - Vercel
+- Git
 
 ## Intereses
 
@@ -54,6 +55,7 @@ Estoy emocionado por lo que el futuro tiene reservado y estoy comprometido a seg
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## Proyectos Destacados
