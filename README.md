@@ -39,7 +39,7 @@ Estoy comprometido a seguir aprendiendo, creciendo y creando un impacto positivo
 ¡Conéctate conmigo y construyamos algo increíble juntos!
 
 - 📧 **Email:** [alvarorojas1101@gmail.com](mailto:alvarorojas1101@gmail.com)
-- 🌐 **Portfolio:** [portfolio-alvaro-rojas.vercel.app](https://portfolio-alvaro-rojas.vercel.app) *(corregido "porfolio" → "portfolio")*
+- 🌐 **Portfolio:** [portfolio-alvaro-rojas.vercel.app](https://porfolio-alvaro-rojas.vercel.app/) 
 - 💻 **GitHub:** [github.com/alvarorojas1101](https://github.com/alvarorojas1101)
 - 💼 **LinkedIn:** [linkedin.com/in/alvarorojas1101](https://www.linkedin.com/in/alvarorojas1101)
 
@@ -79,22 +79,6 @@ Aplicación web de personajes de Rick and Morty con autenticación, búsqueda, f
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvarorojas1101&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarorojas1101&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -103,23 +87,13 @@ Aplicación web de personajes de Rick and Morty con autenticación, búsqueda, f
 
 ---
 
-## 📅 Contribution Calendar
-
-<div align="center">
-  <img src="https://github-readme-calendar.vercel.app/api?username=alvarorojas1101&theme=dark&area=true" alt="Contribution Calendar" />
-</div>
-
----
-
-## 📚 Blog & Más
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alvarorojas1101&style=flat-square" alt="Profile Views" />
 </div>
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/alvarorojas1101" target="_blank">
-    <img src="https://img.shields.io/badge/Donar-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" alt="Donar Café" /> *(traducido al español)*
+    <img src="https://img.shields.io/badge/Donar-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" alt="Donar Café" /> 
   </a>
 </div>
 
