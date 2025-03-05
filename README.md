@@ -1,47 +1,51 @@
 # ¡Hola! 👋
 
-Soy Alvaro Rojas, un apasionado desarrollador Full Stack con una sólida formación en tecnología.
+Soy **Alvaro Rojas**, un apasionado **Full Stack Developer** con una sólida formación en tecnología.
 
-## Acerca de mí
+---
 
-Desde que realicé un técnico en mantenimiento de computadoras en la escuela, mi interés por el desarrollo y la tecnología ha crecido exponencialmente. He completado cursos de desarrollo web Full Stack en el programa Codo a Codo 4.0 del Gobierno de la Ciudad de Buenos Aires, así como en Coderhouse, entre otros. Actualmente, estoy inmerso en el bootcamp de Soy Henry y continuamente ampliando mis conocimientos a través de cursos en Platzi.
+## Sobre Mí
 
-Me motiva la posibilidad de crear soluciones innovadoras que mejoren la vida de las personas y resuelvan problemas de manera eficiente. Mi experiencia en atención al cliente me ha enseñado la importancia de entender las necesidades del usuario y trabajar en equipo para ofrecer soluciones excepcionales.
+Desde mis inicios realizando un técnico en mantenimiento de computadoras, mi interés por el desarrollo y la tecnología ha crecido exponencialmente. He cursado programas de **desarrollo web Full Stack** en:
 
-## Habilidades
+- **Codo a Codo 4.0** (Gobierno de la Ciudad de Buenos Aires)
+- **Coderhouse**
+- **Soy Henry**
 
-- JavaScript
-- React
-- Node JS
-- Redux
-- Redux Toolkit
-- TypeScript
-- HTML
-- CSS
-- PostgreSQL
-- Express.js
-- Sequelize
-- Auth0
-- Database management
-- Vercel
-- Git
+Además, sigo ampliando mis conocimientos a través de cursos en **Platzi**.
+
+Mi motivación radica en crear soluciones innovadoras que transformen la experiencia de los usuarios y resuelvan problemas de manera eficiente. La experiencia en atención al cliente me ha enseñado la importancia de entender las necesidades reales y trabajar en equipo para lograr resultados excepcionales.
+
+---
+
+## Habilidades Técnicas
+
+- **Lenguajes & Frameworks:** JavaScript, TypeScript, React, Node.js, Redux, Redux Toolkit, HTML, CSS
+- **Backend & Bases de Datos:** Express.js, Sequelize, PostgreSQL
+- **Autenticación & APIs:** Auth0, gestión de APIs
+- **Herramientas:** Git, Vercel, Database Management
+
+---
 
 ## Intereses
 
-Fuera del trabajo, me encanta viajar y descubrir nuevas culturas y comidas. Siempre estoy buscando oportunidades para aprender y crecer, ya sea explorando un nuevo destino o sumergiéndome en un nuevo curso en línea.
+Fuera del trabajo, disfruto viajar y descubrir nuevas culturas y gastronomías. Siempre estoy en la búsqueda de oportunidades para aprender y crecer, ya sea explorando un nuevo destino o sumergiéndome en un curso online.
+
+---
 
 ## Contacto
 
-Estoy emocionado por lo que el futuro tiene reservado y estoy comprometido a seguir aprendiendo, creciendo y creando un impacto positivo en el mundo a través de la tecnología.
+Estoy comprometido a seguir aprendiendo, creciendo y creando un impacto positivo a través de la tecnología.  
+¡Conéctate conmigo y construyamos algo increíble juntos!
 
-¡Conéctate conmigo y comencemos a construir algo increíble juntos!
-
-📧 alvarorojas1101@gmail.com  
-🌐 [Porfolio](https://porfolio-alvaro-rojas.vercel.app)
-💻 [GitHub](https://github.com/alvarorojas1101)  
-💼 [LinkedIn](https://www.linkedin.com/in/alvarorojas1101)
+- 📧 **Email:** [alvarorojas1101@gmail.com](mailto:alvarorojas1101@gmail.com)
+- 🌐 **Portfolio:** [porfolio-alvaro-rojas.vercel.app](https://porfolio-alvaro-rojas.vercel.app)
+- 💻 **GitHub:** [github.com/alvarorojas1101](https://github.com/alvarorojas1101)
+- 💼 **LinkedIn:** [linkedin.com/in/alvarorojas1101](https://www.linkedin.com/in/alvarorojas1101)
 
 ---
+
+## 🛠️ Tecnologías
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -58,45 +62,43 @@ Estoy emocionado por lo que el futuro tiene reservado y estoy comprometido a seg
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-## Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 ### [Electro Emporium (may. 2024 - jun. 2024)](https://github.com/alvarorojas1101/PF.git)
-Marketplace de productos electrónicos con autenticación Auth0, gestión de productos y pagos integrados con Mercado Pago. Tecnologías: JavaScript, Redux Toolkit, TypeScript, Cloudinary, Auth0, Bootstrap, Axios, Vercel.
+Marketplace de productos electrónicos con autenticación (Auth0), gestión de productos y pagos integrados (Mercado Pago).  
+**Stack:** JavaScript, Redux Toolkit, TypeScript, Cloudinary, Auth0, Bootstrap, Axios, Vercel
 
 ### [Proyecto Individual Countries (abr. 2024)](https://github.com/alvarorojas1101/PiCountries.git)
-Aplicación web para explorar y gestionar una base de datos de países con funcionalidades de búsqueda, filtrado y creación de actividades turísticas. Tecnologías: JavaScript, React, Node.js, Redux, PostgreSQL, Express.js, Sequelize.
+Aplicación web para explorar y gestionar una base de datos de países con búsqueda, filtrado y creación de actividades turísticas.  
+**Stack:** JavaScript, React, Node.js, Redux, PostgreSQL, Express.js, Sequelize
 
 ### [Proyecto Integrador Rick and Morty (dic. 2023 - ene. 2024)](https://github.com/alvarorojas1101/PI-RYM.git)
-Aplicación web de personajes de Rick and Morty con funcionalidades de autenticación, búsqueda, filtrado y gestión de favoritos. Tecnologías: JavaScript, React, Node.js, Redux, HTML, CSS, PostgreSQL, Express.js, Sequelize.
+Aplicación web de personajes de Rick and Morty con autenticación, búsqueda, filtrado y gestión de favoritos.  
+**Stack:** JavaScript, React, Node.js, Redux, HTML, CSS, PostgreSQL, Express.js, Sequelize
 
 ---
 
-## GitHub Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alvarorojas1101&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-## Recent Blog Posts  
-  
-
-<br/>  
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=alvarorojas1101&&style=flat-square" align="center" />
-</div>  
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=alvarorojas1101&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+</div>
 
-<br/>  
+---
+
+## 📚 Blog & Más
+
+<!-- Agrega aquí enlaces a tus publicaciones o proyectos adicionales -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alvarorojas1101&style=flat-square" alt="Profile Views" />
+</div>
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/alvarorojas1101" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+  <a href="https://www.buymeacoffee.com/alvarorojas1101" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" alt="Buy Me A Coffee" />
+  </a>
+</div>
 
-----
 
