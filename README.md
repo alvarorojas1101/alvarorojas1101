@@ -10,7 +10,7 @@ Desde mis inicios realizando un técnico en mantenimiento de computadoras, mi in
 
 - **Codo a Codo 4.0** (Gobierno de la Ciudad de Buenos Aires)
 - **Coderhouse**
-- Actualmente, el bootcamp de **Soy Henry**
+- **Soy Henry**
 
 Además, sigo ampliando mis conocimientos a través de cursos en **Platzi**.
 
@@ -39,7 +39,7 @@ Estoy comprometido a seguir aprendiendo, creciendo y creando un impacto positivo
 ¡Conéctate conmigo y construyamos algo increíble juntos!
 
 - 📧 **Email:** [alvarorojas1101@gmail.com](mailto:alvarorojas1101@gmail.com)
-- 🌐 **Portfolio:** [porfolio-alvaro-rojas.vercel.app](https://porfolio-alvaro-rojas.vercel.app)
+- 🌐 **Portfolio:** [portfolio-alvaro-rojas.vercel.app](https://portfolio-alvaro-rojas.vercel.app) *(corregido "porfolio" → "portfolio")*
 - 💻 **GitHub:** [github.com/alvarorojas1101](https://github.com/alvarorojas1101)
 - 💼 **LinkedIn:** [linkedin.com/in/alvarorojas1101](https://www.linkedin.com/in/alvarorojas1101)
 
@@ -51,7 +51,6 @@ Estoy comprometido a seguir aprendiendo, creciendo y creando un impacto positivo
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -66,15 +65,15 @@ Estoy comprometido a seguir aprendiendo, creciendo y creando un impacto positivo
 
 ## 🚀 Proyectos Destacados
 
-### [Electro Emporium (may. 2024 - jun. 2024)](https://github.com/alvarorojas1101/PF.git)
+### [Electro Emporium (May. 2024 - Jun. 2024)](https://github.com/alvarorojas1101/PF)
 Marketplace de productos electrónicos con autenticación (Auth0), gestión de productos y pagos integrados (Mercado Pago).  
 **Stack:** JavaScript, Redux Toolkit, TypeScript, Cloudinary, Auth0, Bootstrap, Axios, Vercel
 
-### [Proyecto Individual Countries (abr. 2024)](https://github.com/alvarorojas1101/PiCountries.git)
+### [Proyecto Individual Countries (Abr. 2024)](https://github.com/alvarorojas1101/PiCountries)
 Aplicación web para explorar y gestionar una base de datos de países con búsqueda, filtrado y creación de actividades turísticas.  
 **Stack:** JavaScript, React, Node.js, Redux, PostgreSQL, Express.js, Sequelize
 
-### [Proyecto Integrador Rick and Morty (dic. 2023 - ene. 2024)](https://github.com/alvarorojas1101/PI-RYM.git)
+### [Proyecto Integrador Rick and Morty (Dic. 2023 - Ene. 2024)](https://github.com/alvarorojas1101/PI-RYM)
 Aplicación web de personajes de Rick and Morty con autenticación, búsqueda, filtrado y gestión de favoritos.  
 **Stack:** JavaScript, React, Node.js, Redux, HTML, CSS, PostgreSQL, Express.js, Sequelize
 
@@ -114,16 +113,14 @@ Aplicación web de personajes de Rick and Morty con autenticación, búsqueda, f
 
 ## 📚 Blog & Más
 
-<!-- Agrega aquí enlaces a tus publicaciones o proyectos adicionales -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alvarorojas1101&style=flat-square" alt="Profile Views" />
 </div>
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/alvarorojas1101" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/Donar-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" alt="Donar Café" /> *(traducido al español)*
   </a>
 </div>
-
 
 
