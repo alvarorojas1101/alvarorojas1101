@@ -10,7 +10,7 @@ Desde mis inicios realizando un técnico en mantenimiento de computadoras, mi in
 
 - **Codo a Codo 4.0** (Gobierno de la Ciudad de Buenos Aires)
 - **Coderhouse**
-- **Soy Henry**
+- Actualmente, el bootcamp de **Soy Henry**
 
 Además, sigo ampliando mis conocimientos a través de cursos en **Platzi**.
 
@@ -88,6 +88,30 @@ Aplicación web de personajes de Rick and Morty con autenticación, búsqueda, f
 
 ---
 
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarorojas1101&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alvarorojas1101&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📅 Contribution Calendar
+
+<div align="center">
+  <img src="https://github-readme-calendar.vercel.app/api?username=alvarorojas1101&theme=dark&area=true" alt="Contribution Calendar" />
+</div>
+
+---
+
 ## 📚 Blog & Más
 
 <!-- Agrega aquí enlaces a tus publicaciones o proyectos adicionales -->
@@ -97,8 +121,9 @@ Aplicación web de personajes de Rick and Morty con autenticación, búsqueda, f
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/alvarorojas1101" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" alt="Buy Me A Coffee" />
   </a>
 </div>
+
 
 
